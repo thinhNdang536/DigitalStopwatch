@@ -1,1 +1,3 @@
 # Computer-System---Digital-Stopwatch
+
+Kinda fun. Logic gates, wires, and buffers...
